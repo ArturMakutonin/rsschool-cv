@@ -16,3 +16,4 @@
 ```
 6. Courses : JetBrains Academy (Frontend developer) <https://hyperskill.org/> , <https://www.freecodecamp.org/> ;
 7. I am studying to become an engineer at VSTU in my final year;
+8. The level of English is B1 , I can convey my thoughts in English (oral and written), I watch films in the original and read English literature.
