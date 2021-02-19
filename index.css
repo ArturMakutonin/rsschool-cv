@@ -1,0 +1,13 @@
+*{
+    margin: 0 auto;
+    background: antiquewhite;
+}
+.img{
+    display: flex;
+    border-radius: 50%;
+    max-width: 140px;
+}
+.cv{
+    justify-content: center;
+    display: flex;
+}
